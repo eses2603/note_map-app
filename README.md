@@ -1,18 +1,32 @@
- 
-<h1> Note_Map-Website </h1>
+# Map Based Notes Application
 
-I've independently designed and coded a responsive Note_Map-Website, and it's ready to explore!
+An interactive note-taking application that allows users to place and manage notes directly on a map.
 
-🔸 Project Name: Note_Map-Website
+## 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
-🔸 Technologies Used: HTML, CSS, JavaScript
+## 🔐 Features
+- Add notes to map locations
+- Edit and delete notes
+- Custom colored note markers
+- Display user location
+- Responsive design
 
-🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers.
+## 🧠 Architecture & Focus
+- DOM manipulation using vanilla JavaScript
+- Interactive map usage
+- User-friendly UI design
+- Dynamic note management
 
-🔸 We can use this project to view and organize your notes on the map. The features of this application are as follows:
-
--Ability to add notes on the map, Edit and delete notes, Ability to add icons in different colors to notes, Show user location.
-
-<h2>Screen_Shoot</h2>
+## 📷 Demo
 
 ![](screen_note_map-website.gif)
+
+## 💡 Future Improvements
+- Cloud database storage
+- User accounts
+- Note categories
+- Map search feature
